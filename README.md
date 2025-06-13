@@ -9,7 +9,7 @@
 
 
 
-| Format by A7IV 📝 Overwrite 50% |
+| Format by A7IV ~ Overwrite 50% |
 |----------|
-| <img src="https://github.com/user-attachments/assets/2e935631-b881-4392-86f6-3bb60e2e191a" alt="Lexar 128GB" width="200" style="max-width: 100%; margin: 0 auto;"> <br> <p style="text-align: center;"> </p> |
+| <img src="https://github.com/user-attachments/assets/2e935631-b881-4392-86f6-3bb60e2e191a" alt="Lexar 128GB" width="200" style="max-width: 100%; margin: 0 auto;"> <br> <p style="text-align: center;">📝 ID: L128GBR205W150 </p> |
 

@@ -25,7 +25,7 @@
 | <img src="https://github.com/user-attachments/assets/2e935631-b881-4392-86f6-3bb60e2e191a" alt="Lexar 128GB" width="250" style="max-width: 100%; margin: 0 auto;"> <br> <p style="text-align: center;">📝 ID: LX128GBR205W150 </p> |
 
 
-## Format by Nikon, Canon, Fujifilm
+## Format by Nikon, Canon, Fujifilm...
 
 
 

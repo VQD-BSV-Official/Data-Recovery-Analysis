@@ -1,4 +1,18 @@
 # Data Recovery Analysis
+> [!Important]
+> * Data recovery depends on many factors, for example you format, delete, overwrite, partition is RAW...etc
+> * Some good tools that I am using: UFS Explorer, R-Studio, Disk Drill...
+
+> [!Tip]
+> ***How to read ID ? Ex: LX128GBR205W150 => LX 128GB R205 W150*** <br> If there is only one parameter on the card it will be: RWxxx <br>
+> | Name      | Acronym | Capacity | Read | Write |
+> |-----------|---------|----------|------|-------|
+> | Lexar     | LX      | Ex: 128GB| R205 | W150  |
+> | Sony      | SN      | xxxGB    | Rxxx | Wxxx  |
+> | SanDisk   | SD      | xxxGB    | Rxxx | Wxxx  |
+> | Samsung   | SS      | xxxGB    | Rxxx | Wxxx  |
+> | Kingston  | KS      | xxxGB    | Rxxx | Wxxx  |
+> | Toshiba   | TS      | xxxGB    | Rxxx | Wxxx  |
 
 ## Format by Nikon, Canon, Fujifilm
 
@@ -11,5 +25,5 @@
 
 | Format by A7IV ~ Overwrite 50% |
 |----------|
-| <img src="https://github.com/user-attachments/assets/2e935631-b881-4392-86f6-3bb60e2e191a" alt="Lexar 128GB" width="250" style="max-width: 100%; margin: 0 auto;"> <br> <p style="text-align: center;">📝 ID: L128GBR205W150 </p> |
+| <img src="https://github.com/user-attachments/assets/2e935631-b881-4392-86f6-3bb60e2e191a" alt="Lexar 128GB" width="250" style="max-width: 100%; margin: 0 auto;"> <br> <p style="text-align: center;">📝 ID: LX128GBR205W150 </p> |
 

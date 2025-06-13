@@ -1,6 +1,8 @@
 # Data Recovery Analysis
 
-## Format by Sony or Canon
+## Format by Nikon, Canon, Fujifilm
+
+## Format by Sony, Canon
 > [!Note]
 > Ex: Sony A7IV, A7III, A6000, A6400... | Canon RP, R... <br>
 > Some cases can still be restored even after formatting with Sony or Canon, below are some cases I have handled. ***Everything is relatively impossible to confirm 100%***

@@ -9,5 +9,5 @@
 
 | Format by A7IV |
 |----------|
-| <img src="https://github.com/user-attachments/assets/2e935631-b881-4392-86f6-3bb60e2e191a" alt="Thẻ nhớ Lexar 128GB" width="150" style="max-width: 100%; margin: 0 auto;"> <br> <p style="text-align: center;">Overwrite 50%</p> |
+| <img src="https://github.com/user-attachments/assets/2e935631-b881-4392-86f6-3bb60e2e191a" alt="Thẻ nhớ Lexar 128GB" width="150" style="max-width: 100%; margin: 0 auto;"> <br> <p style="text-align: center;"> 📝 Overwrite 50%</p> |
 
